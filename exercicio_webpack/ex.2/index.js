@@ -1,0 +1,1 @@
+const exemplo2 = require('./exemplo2.js')
